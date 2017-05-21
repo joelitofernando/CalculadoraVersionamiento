@@ -19,6 +19,7 @@ public class Prueba {
         
         System.out.println("Dgite el numero uno : ");
         System.out.println("Dgite el numero dos : ");
+        System.out.println("no se si esto va a funcionar");
     }
     
 }
